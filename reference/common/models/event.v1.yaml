@@ -1,0 +1,9 @@
+title: Event
+type: object
+properties:
+  id:
+    type: string
+  date:
+    type: string
+  media:
+    $ref: ./media.v1.yaml

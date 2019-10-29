@@ -1,0 +1,5 @@
+title: Media
+type: object
+properties:
+  id:
+    type: string
